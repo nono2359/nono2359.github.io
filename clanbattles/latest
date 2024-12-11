@@ -1,0 +1,19 @@
+{
+    "start_time": "2024/12/26 05:00:00",
+    "end_time": "2024/12/30 23:59:59",
+    "interval_end": "2024/12/12 23:49:00",
+    "maps": [
+        {
+            "boss_names": ["Boss1", "Boss2", "Boss3", "Boss4", "Boss5"],
+            "boss_ids": [101, 102, 103, 104, 105],
+            "lap_from": 1,
+            "lap_to": 10
+        },
+        {
+            "boss_names": ["Boss6", "Boss7", "Boss8", "Boss9", "Boss10"],
+            "boss_ids": [106, 107, 108, 109, 110],
+            "lap_from": 11,
+            "lap_to": 20
+        }
+    ]
+}
